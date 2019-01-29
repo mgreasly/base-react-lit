@@ -15,4 +15,6 @@ https://github.com/axios/axios
 very simple state management...
 https://github.com/redux-zero/redux-zero
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## create-react-app
+Project was bootstrapped with https://github.com/facebook/create-react-app
+
